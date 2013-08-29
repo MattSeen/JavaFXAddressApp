@@ -1,0 +1,35 @@
+<list>
+  <person>
+    <firstName>Ted</firstName>
+    <lastName>Bundy</lastName>
+    <street>60 White Oaks</street>
+    <postalCode>024</postalCode>
+    <city>Cork</city>
+    <birthday>
+      <time>1377726141887</time>
+      <timezone>Europe/London</timezone>
+    </birthday>
+  </person>
+  <person>
+    <firstName>Joesph</firstName>
+    <lastName>Fritizal</lastName>
+    <street>somestreet</street>
+    <postalCode>1234</postalCode>
+    <city>some city</city>
+    <birthday>
+      <time>1377726141889</time>
+      <timezone>Europe/London</timezone>
+    </birthday>
+  </person>
+  <person>
+    <firstName>Seymor</firstName>
+    <lastName>Butts</lastName>
+    <street>somestreet</street>
+    <postalCode>1234</postalCode>
+    <city>some city</city>
+    <birthday>
+      <time>1377726141889</time>
+      <timezone>Europe/London</timezone>
+    </birthday>
+  </person>
+</list>
